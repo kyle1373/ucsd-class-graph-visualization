@@ -1,0 +1,1 @@
+Check out `template.csv` to see how exactly you should construct `classes.csv`
